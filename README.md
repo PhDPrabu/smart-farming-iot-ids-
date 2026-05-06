@@ -100,7 +100,8 @@ Installation
 -----------------------------------------------------------------------
 Clone Repository
 
-git clone https://github.com/PhdPrabu/smart-farming-iot-ids.git
+git clone https://github.com/PhdPrabu/smart-farming-iot-ids-.git
+
 
 cd smart-farming-iot-ids
 
